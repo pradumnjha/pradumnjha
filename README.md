@@ -1,6 +1,6 @@
 # Hi there, I'm Pradumn Jha! 👋
 
-Welcome to my GitHub profile! I am a **Cloud (Azure) and DevOps Engineer/Architect** with over **4.4 years of experience** in designing, automating, and optimizing cloud infrastructure and processes.
+Welcome to my GitHub profile! I am a **Cloud and DevOps Engineer/Architect** with over **4.4 years of experience** in designing, automating, and optimizing cloud infrastructure and processes.
 
 ---
 
